@@ -1,0 +1,17 @@
+# --- Python ---
+__pycache__/
+*.pyc
+
+# --- Virtual Environments ---
+.venv/
+
+# --- Environment Variables ---
+.env
+
+archieve
+databricks
+
+.claude
+
+data/historical_data
+data/pools
